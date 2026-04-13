@@ -1705,7 +1705,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 977eb5c6eba460347ac0d55496a10200, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GameManager
-  killsNecessarias: 50
+  killsNecessarias: 20
   nomeProximaFase: Final
   textoContador: {fileID: 1759661983}
 --- !u!4 &900037198
